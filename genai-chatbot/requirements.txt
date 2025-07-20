@@ -1,0 +1,14 @@
+streamlit
+langchain
+faiss-cpu            # or faiss-gpu if you're using GPU
+sentence-transformers
+openai               # optional fallback if Groq not available
+groq                # unofficial client if available, or use HTTP via requests
+requests
+arize-ai-sdk
+python-dotenv
+numpy
+pandas
+tqdm
+scikit-learn
+typing-extensions
